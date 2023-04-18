@@ -1,0 +1,82 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    color: #EDEAED;
+    text-align: center;
+    background-color: #2C212D;
+    /*
+    background-image:url("https://static.vecteezy.com/system/resources/thumbnails/010/790/729/small/abstract-background-dark-blue-with-modern-concept-vector.jpg");
+    */
+    width: 100%;
+}
+
+.img_title{
+    background-color: #99889A;
+    width: 400px;
+}
+
+.img-perfil{
+    width: 380px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+
+h3{
+    font-size: 15px;
+}
+
+div{
+    background-color: #7E6E80;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 10px;
+    width: 800px;
+}
+
+.encabezado{
+    text-align: center;
+}
+
+.contenido{
+    text-align: center;
+    align-content: center;
+}
+
+.lista{
+    text-align: left;
+    width: 340px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.lista1{
+    background-color: #99889A;
+}
+
+.lista2{
+    background-color: #927D93;
+}
+
+.lista3{
+    background-color: #89728A;
+}
+
+.lista h2{
+    text-align: center;
+}
+
+.redes img{
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.redes img:hover{
+    filter: grayscale(100%);
+}
